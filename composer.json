@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Customer_Additional_Info",
+    "name": "OpenMageModuleFostering\/Customer_Additional_Info",
     "type": "magento-module",
     "license": "-Open-Software-License",
     "homepage": "",
     "description": "This extension is very useful to save customer education details.",
     "authors": [
-    {
-        "name": "Bikash Kaushik",
-        "email": "bikashkaushik10@gmail.com"
-    }
-],
+        {
+            "name": "Bikash Kaushik",
+            "email": "bikashkaushik10@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
